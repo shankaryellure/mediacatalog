@@ -1,0 +1,16 @@
+{
+  "name": "hack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "multer": "^1.4.5-lts.1",
+    "package-name": "^0.1.0"
+  }
+}
